@@ -1,0 +1,26 @@
+{
+    "AL": [
+	    { "Nome": "Tribunal de Justiça do Estado de Alagoas", "Apelido": "TJAL - PROJUDI", "Link": "https://www5.tjal.jus.br/projudi/" }
+    ],
+	"BA": [
+	    { "Nome": "Tribunal de Justiça do Estado da Bahia", "Apelido": "TJBA - PROJUDI", "Link": "https://projudi.tjba.jus.br/projudi/" }
+    ],
+	"MT": [
+	    { "Nome": "Poder Judiciário do Estado de Mato Grosso", "Apelido": "TJMT - PROJUDI", "Link": "http://projudi.tjmt.jus.br/projudi/" }
+    ],
+	"MG": [
+	    { "Nome": "Tribunal de Justiça do Estado de Minas Gerais", "Apelido": "TJMG - PROJUDI", "Link": "https://projudi.tjmg.jus.br/projudi/" }
+    ],
+	"PR": [
+	    { "Nome": "Tribunal de Justiça do Estado do Parana", "Apelido": "TJPR - PROJUDI", "Link": "https://projudi.tjpr.jus.br/projudi/" }
+    ],
+	"RN": [
+	    { "Nome": "Tribunal de Justiça do Estado do Rio Grande do Norte", "Apelido": "TJRN - PROJUDI", "Link": "https://projudi.tjrn.jus.br/projudi/" }
+    ],
+	"RO": [
+	    { "Nome": "Tribunal de Justiça do Estado de Rondonia", "Apelido": "TJRO - PROJUDI", "Link": "http://projudi.tjro.jus.br/projudi/" }
+    ],
+	"MA": [
+	    { "Nome": "Tribunal de Justiça do Estado do Maranhão", "Apelido": "TJMA - PROJUDI", "Link": "https://projudi.tjma.jus.br/projudi/" }
+    ]
+}

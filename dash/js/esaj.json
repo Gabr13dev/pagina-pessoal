@@ -1,0 +1,29 @@
+{
+	"AC":[
+	    { "Nome": "Tribunal de Justiça do Estado do Acre", "Apelido": "TJAC - eSAJ", "Link": "https://esaj.tjac.jus.br/esaj/portal.do?servico=740000" }
+    ],
+	"AL":[
+	    { "Nome": "Tribunal de Justiça do Estado de Alagoas", "Apelido": "TJAL - eSAJ", "Link": "https://www2.tjal.jus.br/esaj/portal.do?servico=740000" }
+    ],
+	"AM":[
+	    { "Nome": "Tribunal de Justiça do Estado do Amazonas", "Apelido": "TJAM - eSAJ", "Link": "https://consultasaj.tjam.jus.br/esaj/portal.do?servico=740000" }
+    ],
+	"BA":[
+	    { "Nome": "Tribunal de Justiça do Estado da Bahia", "Apelido": "TJBA - eSAJ", "Link": "http://esaj.tjba.jus.br/esaj/portal.do?servico=740000" }
+    ],
+	"CE":[
+	    { "Nome": "Tribunal de Justiça do Estado do Ceara", "Apelido": "TJCE - eSAJ", "Link": "https://esaj.tjce.jus.br/esaj/portal.do?servico=740000" }
+    ],
+	"MS":[
+	    { "Nome": "Tribunal de Justiça do Estado do Mato Grosso do Sul", "Apelido": "TJMS - eSAJ", "Link": "https://esaj.tjms.jus.br/esaj/portal.do?servico=740000" }
+    ],
+	"RN":[
+	    { "Nome": "Tribunal de Justiça do Estado do Rio Grande do Norte", "Apelido": "TJRN - eSAJ", "Link": "http://esaj.tjrn.jus.br/esaj/portal.do?servico=740000" }
+    ],
+	"SC":[
+	    { "Nome": "Tribunal de Justiça do Estado de Santa Catarina", "Apelido": "TJSC - eSAJ", "Link": "https://esaj.tjsc.jus.br/esaj/portal.do?servico=740000" }
+    ],
+	"SP":[
+	    { "Nome": "Tribunal de Justiça do Estado de São Paulo", "Apelido": "TJSP - eSAJ", "Link": "https://esaj.tjsp.jus.br/esaj/portal.do?servico=740000" }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+"presidente": [
+      {"numero": "19", "sexo":"M","partido":"PODE","nome":"ALVARO DIAS"                       ,"foto":"alvaro"},
+      {"numero": "51","sexo":"M","partido":"PATRI","nome":"CABO DACIOLO"                          ,"foto":"cabo"},
+      {"numero": "12", "sexo":"M","partido":"PDT","nome":"CIRO GOMES"                          ,"foto":"ciro"},
+      {"numero": "27","sexo":"M","partido":"DC","nome":"EYMAEL"                        ,"foto":"eymael"},
+      {"numero": "13", "sexo":"M","partido":"PT","nome":"FERNANDO HADDAD"                   ,"foto":"fernando"},
+      {"numero": "45","sexo":"M","partido":"PSDB","nome":"GERALDO ALCKIMIN"                  ,"foto":"geraldo"},
+      {"numero": "50", "sexo":"M","partido":"PSOL","nome":"GUILHERME BOULOS"                ,"foto":"guilherme"},
+      {"numero": "15","sexo":"M","partido":"MDB","nome":"HENRIQUE MEIRELLES"                     ,"foto":"henrique"},
+      {"numero": "17", "sexo":"M","partido":"PSL","nome":"JAIR BOLSONARO"      					,"foto":"jair"},
+      {"numero": "30","sexo":"M","partido":"NOVO","nome":"JOÃO AMOEDO"                     ,"foto":"joao_amoedo"},
+	  {"numero": "54","sexo":"M","partido":"PPL","nome":"JOÃO GOULART FILHO "                     ,"foto":"joao_goulart"},
+	  {"numero": "18","sexo":"F","partido":"REDE","nome":"MARINA SILVA"                     ,"foto":"marina"},
+	  {"numero": "16","sexo":"M","partido":"PSTU","nome":"VERA LUCIA"                     ,"foto":"vera"}
+   ]
+}

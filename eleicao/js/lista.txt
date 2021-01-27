@@ -1,0 +1,41 @@
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header" style="background-color:#63d651;">
+          <h3 class="modal-title">Lista</h3>
+        </div>
+        <div class="modal-body" style="text-align: left;" >	  
+<h6><li>ALVARO DIAS - 19 / PODE</h6>
+
+<h6><li>CABO DACIOLO - 51 / PATRI</h6>
+
+<h6><li>CIRO GOMES - 12 / PDT</h6>
+
+<h6><li>EYMAEL - 27 / DC</h6>
+
+<h6><li>FERNANDO HADDAD - 13 / DC</h6>
+
+<h6><li>GERALDO ALCKIMIN - 45 / PSDB</h6>
+
+<h6><li>GUILHERME BOULOS - 50 / PSOL</h6>
+
+<h6><li>HENRIQUE MEIRELLES - 15 / MDB</h6>
+
+<h6><li>JAIR BOLSONARO - 17 / PSL</h6>
+
+<h6><li>JOÃO AMOEDO - 30 / NOVO</h6>
+
+<h6><li>JOÃO GOULART FILHO - 54 / PPL</h6>
+
+<h6><li>MARINA SILVA - 18 / REDE</h6>
+
+<h6><li>VERA - 16 / PSTU</h6>
+<br>
+		  <h6><li><b>Qualquer erro por favor ligar no Ramal 223</b></h6>
+        </div>
+        <div class="modal-footer">
+          <button onclick="ajuda('2')" button type="button" class="btn btn-info">Fechar</button>
+        </div>
+      </div>  
+    </div>
+  </div>

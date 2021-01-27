@@ -1,0 +1,79 @@
+    body{
+        background-color: #00ad6c !important;
+        color: white !important;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        color: white !important;
+    }
+    .btn-outline-successl {
+        border-color: white;
+        color: white !important;
+    }
+    .form-control {
+        display: flex;
+        color: white;
+    }
+    .container {
+        /*margin-left: 28% !important;*/
+    }
+    .btn-outline-successl:hover {
+        color: #00ad6c !important;
+        background-color: #fff !important;
+    }
+    .btn_lg{
+        background-color: #00ad6c;
+        display: inline-block;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        border: 1px solid white;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        border-radius: 50px;
+        
+    }
+    .btn_lg.btn-outline-successl {
+        
+        width: 47%;
+    }
+    .ml-2, .mx-2 {
+        margin-left: 0.5rem !important;
+        text-align: left !important;
+        display: none;
+    }
+    .toEqual{
+        margin-left: 1%;
+    }
+    #overlay {
+        position: fixed; /* Sit on top of the page content */
+        display: none; /* Hidden by default */
+        width: 100%; /* Full width (cover the whole page) */
+        height: 100%; /* Full height (cover the whole page) */
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0,0,0,0.8); /* Black background with opacity */
+        z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+}
+    #text{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        font-size: 50px;
+        color: white;
+        transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+}
+    input{
+        color: black !important; 
+    }
+    #smTxt{
+        font-size: 13px !important;
+    }
